@@ -93,9 +93,16 @@ const LandingPage = () => {
         <p className="text-2xl md:text-3xl text-orange-100 mb-4 animate-slideUp font-light tracking-wide">
           May this festival of lights
         </p>
-        <p className="text-2xl md:text-3xl text-yellow-200 mb-16 animate-slideUp font-light tracking-wide" style={{ animationDelay: '0.1s' }}>
+        <p className="text-2xl md:text-3xl text-yellow-200 mb-8 animate-slideUp font-light tracking-wide" style={{ animationDelay: '0.1s' }}>
           brighten your life with joy and prosperity
         </p>
+
+        {/* From: Harsh Dixit */}
+        <div className="mb-12 animate-fadeIn" style={{ animationDelay: '0.3s' }}>
+          <p className="text-xl md:text-2xl text-orange-200/80 font-light italic">
+            From: <span className="text-yellow-300 font-semibold not-italic">Harsh Dixit</span>
+          </p>
+        </div>
 
         {/* Enhanced CTA Button with Ripple Effect */}
         <button
