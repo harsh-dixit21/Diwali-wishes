@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 const WishesPage = () => {
@@ -11,7 +11,7 @@ const WishesPage = () => {
       id: 1,
       name: "Divik",
       photo: "/images/friend1.jpg",
-      message: "May this diwali bring you great coding skills and may you get great results of your hardwork ",
+      message: "May this diwali bring you great coding skills and may you get great results of your hardwork",
       cardType: "diya",
       color: "from-orange-400 to-orange-600"
     },
@@ -43,7 +43,7 @@ const WishesPage = () => {
       id: 5,
       name: "Arnav",
       photo: "/images/friend5.jpg",
-      message: "May this diwali get u some muscles ",
+      message: "May this diwali get u some muscles",
       cardType: "peacock",
       color: "from-indigo-500 to-purple-600"
     },
@@ -51,7 +51,7 @@ const WishesPage = () => {
       id: 6,
       name: "Aarushi",
       photo: "/images/friend6.jpg",
-      message: "May this diwali bring u 'sadboodhi' along with prosperity and happiness and u get some help😍 ",
+      message: "May this diwali bring  prosperity and happiness in your life and u get some emotions 😍",
       cardType: "diya",
       color: "from-rose-400 to-pink-600"
     },
