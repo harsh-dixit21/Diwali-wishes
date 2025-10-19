@@ -11,7 +11,7 @@ const WishesPage = () => {
       id: 1,
       name: "Divik",
       photo: "/images/friend1.jpg",
-      message: "May this diwali bring you great coding skills and may you get great results of your hardwork",
+      message: " HAPPY DIWALI to you and your family ! May this diwali bring you great coding skills and may you get great results of your hardwork",
       cardType: "diya",
       color: "from-orange-400 to-orange-600"
     },
@@ -19,7 +19,7 @@ const WishesPage = () => {
       id: 2,
       name: "Hardik",
       photo: "/images/friend2.jpg",
-      message: "May this diwali our bond gets stronger and you achieve great heights",
+      message: " HAPPY DIWALI to you and your family ! May this diwali our bond gets stronger and you achieve great heights",
       cardType: "rangoli",
       color: "from-pink-500 to-purple-600"
     },
@@ -27,7 +27,7 @@ const WishesPage = () => {
       id: 3,
       name: "Ansh",
       photo: "/images/friend3.jpg",
-      message: "May your chatgpt keeps giving you ZIP folder and this diwali may u get some fine shytts",
+      message: " HAPPY DIWALI to you and your family ! May your chatgpt keeps giving you ZIP folder and this diwali may u get some fine shytts",
       cardType: "diya",
       color: "from-blue-400 to-teal-500"
     },
@@ -35,7 +35,7 @@ const WishesPage = () => {
       id: 4,
       name: "Aditya",
       photo: "/images/friend4.jpg",
-      message: "May this diwali that katori ladki loves u back and gives you a bj",
+      message: " HAPPY DIWALI to you and your family ! May this diwali that katori ladki loves u back and gives you a bj",
       cardType: "rangoli",
       color: "from-yellow-400 to-orange-500"
     },
@@ -43,7 +43,7 @@ const WishesPage = () => {
       id: 5,
       name: "Arnav",
       photo: "/images/friend5.jpg",
-      message: "May this diwali get u some muscles",
+      message: " HAPPY DIWALI to you and your family ! May this diwali get u some muscles",
       cardType: "peacock",
       color: "from-indigo-500 to-purple-600"
     },
@@ -51,7 +51,7 @@ const WishesPage = () => {
       id: 6,
       name: "Aarushi",
       photo: "/images/friend6.jpg",
-      message: "May this diwali bring  prosperity and happiness in your life and u get some emotions 😍",
+      message: " HAPPY DIWALI to you and your family ! May this diwali bring  prosperity and happiness in your life and u get some emotions 😍",
       cardType: "diya",
       color: "from-rose-400 to-pink-600"
     },
@@ -59,7 +59,7 @@ const WishesPage = () => {
       id: 7,
       name: "Aradhya",
       photo: "/images/friend7.jpg",
-      message: "May this Diwali bring the more happiness and joy to your life and Please say yes to Hardik😊",
+      message: " HAPPY DIWALI to you and your family ! May this Diwali bring the more happiness and joy to your life and Please say yes to Hardik😊",
       cardType: "rangoli",
       color: "from-green-400 to-emerald-600"
     },
@@ -67,7 +67,7 @@ const WishesPage = () => {
       id: 8,
       name: "Ashi",
       photo: "/images/friend8.jpg",
-      message: "May this Diwali bring more happiness and joy to your life and may you always stay crazy and fun ❤️",
+      message: " HAPPY DIWALI to you and your family ! May this Diwali bring more happiness and joy to your life and may you always stay crazy and fun ❤️",
       cardType: "peacock",
       color: "from-amber-400 to-orange-600"
     },
@@ -75,7 +75,7 @@ const WishesPage = () => {
       id: 9,
       name: "Arpita",
       photo: "/images/friend9.jpg",
-      message: "May this Diwali bring more happiness and joy to your life dishwasher and may u get a husband soon 😂",
+      message: " HAPPY DIWALI to you and your family ! May this Diwali bring more happiness and joy to your life dishwasher and may u get a husband soon 😂",
       cardType: "diya",
       color: "from-cyan-400 to-blue-600"
     },
