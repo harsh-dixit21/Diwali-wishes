@@ -7,6 +7,15 @@ const WishesPage = () => {
   const navigate = useNavigate();
 
   const friends = [
+   {
+    id: 0,
+    name: "Harsh",
+    photo: "/images/friend0.jpg",
+    message: "A very happy diwali to you and your family may you keep doing good work, find success and stay happy forever! 💖💖 \n\n- from the whole friend group",
+    cardType: "diya",
+    color: "from-orange-400 to-red-600",
+    keywords: ["myself", "me", "harsh", "creator", "owner"]
+  },
     {
       id: 1,
       name: "Divik",

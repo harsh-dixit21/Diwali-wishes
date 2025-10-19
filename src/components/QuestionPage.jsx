@@ -11,6 +11,18 @@ const QuestionPage = () => {
   // Friend data with relationship keywords
   const friends = [
     {
+    id: 0,
+    name: "Harsh",
+    photo: "/images/friend0.jpg",
+    message: "A very happy diwali to you and your family may you keep doing good work, find success and stay happy forever! 💖💖 \n\n- from the whole friend group",
+    cardType: "diya",
+    color: "from-orange-400 to-red-600",
+    keywords: ["myself", "me", "harsh", "creator", "owner"]
+  },
+    
+    
+    {
+       
       id: 1,
       name: "Divik",
       photo: "/images/friend1.jpg",
